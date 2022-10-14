@@ -1,0 +1,99 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Poppins";
+}
+
+.containerbloco {
+	margin: 50px auto;
+	height: 768px;
+}
+
+.titulo-header {
+	letter-spacing: -2px;
+	font-size: 50px;
+	padding: 20px 0 20px 0;
+}
+
+.titulo-header {
+	letter-spacing: -2.5px;
+	font-size: 45px;
+	font-family: Impact, serif;
+}
+
+.titulo-coffe {
+	padding-top: 20px;
+	letter-spacing: -2.6px;
+	font-size: 40px;
+	font-family: Impact, serif;
+}
+
+.titulo-dessert {
+	letter-spacing: -2.6px;
+	font-size: 40px;
+	font-family: Impact, serif;
+}
+
+.paragrafo-header {
+	padding-bottom: 10px;
+	font-weight: 400;
+}
+
+.hr-header {
+	height: 3px;
+	border-color: #6a4a3a;
+	background: #a52a2a;
+	width: 560px;
+}
+
+.geral {
+	width: 600px;
+	background-color: #deb887;
+	margin: 0 auto;
+}
+
+.cabecalho, .img-center {
+	text-align: center;
+
+}
+
+.lista {
+	height: 220px;
+}
+
+.desserts {
+	height: 230px;
+}
+
+.paragrafo {
+	font-size: 20px;
+	padding: 6px;
+	width: 320px;
+	margin-left: 20px;
+}
+
+.valor {
+	font-size: 20px;
+	padding: 6px;
+	position: absolute;
+	margin-top: -32px;
+	margin-left: 530px;
+}
+
+.link-footer {
+	padding: 15px;
+}
+
+.link-footer a {
+	text-decoration-color: black;
+	color: black;
+}
+
+.p-footer {
+	padding-bottom: 20px;
+}
+
+.link-footer a:hover {
+	color: #a52a2a;
+}
+
